@@ -16,7 +16,7 @@ Foi feito o modelo visual das telas da api
 > 
 > caixas de diálogo = **_feito_**
 
-**_completo telas do projeto no figma_**
+**_Completo telas do projeto no figma_**
 
 ## FLutter
 - Sábado - 11/05
@@ -39,6 +39,7 @@ Foi feito o modelo visual das telas da api
 > 
 > tela de perfil = **_feito_**
 
+**_Completo projeto no flutter_**
 
 ## Dicas
 
