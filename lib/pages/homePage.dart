@@ -64,7 +64,7 @@ class _MyHomePageState extends State<MyHomePage> {
         ),
         floatingActionButton: FloatingActionButton(
           onPressed: () async {
-            final updatedUser = await Navigator.push(
+            Navigator.push(
               context,
               MaterialPageRoute(
                 builder: (context) => AddUserPage(),
